@@ -49,7 +49,7 @@ const signUp = async (req, res) => {
             from: 'Verification <cse.170201013@gmail.com>',
             to: email,
             subject: "Verification Link",
-            text: verificationToken,
+            text: `localhost:3001/user/${verificationToken}`,
             html: `<h1>Hello the code is 72778 ${verificationToken}</h1>`
 
         };
