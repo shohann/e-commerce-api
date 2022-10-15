@@ -11,6 +11,8 @@ An API for online e-commerce system
 - Sending SMS
 - Payment
 - File upload
+- API Rate Limiting
+- API Caching
 
 ## Technology Stack:
 
