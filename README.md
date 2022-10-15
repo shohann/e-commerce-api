@@ -21,7 +21,7 @@ An API for online e-commerce system
 
 ## Entity Relationship Diagram:
 
-<img src="./diagram.svg" width="128"/>
+<img src="./diagram.svg" width="600" background-color="black"/>
 
 ## Default urls:
 
